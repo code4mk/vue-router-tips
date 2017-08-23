@@ -20,5 +20,7 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the  [docs for vue-router](https://router.vuejs.org/en/).
 
+* [Tips vue router](https://hellolaravel.org/developer/vue-router)
+
 ---
 > [Hello Larvel](https://hellolaravel.org/) & [@code4mk](https://twitter.com/code4mk)
